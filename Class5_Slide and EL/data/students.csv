@@ -1,0 +1,14 @@
+srn,name,program,city,enrolled_on,marks
+001,Anu,MCA,Bengaluru,01-08-2026,85
+002,Ravi,MCA,Mysuru,02-08-2026,92
+003,Meera,BCA,Karur,03-08-2026,78
+004,Kiran,MCA,Bengaluru,04-08-2026,68
+005,Divya,MCA,Mysuru,05-08-2026,88
+006,Arun,BCA,Karur,06-08-2026,74
+007,Nila,MCA,Bengaluru,07-08-2026,95
+008,Vikram,MCA,Mysuru,08-08-2026,81
+009,Priya,BCA,Karur,09-08-2026,63
+010,Hari,MCA,Bengaluru,10-08-2026,90
+011,Sana,MCA,Mysuru,11-08-2026,101
+012,Dev,BCA,Karur,12-08-2026,84
+012,Dev,MCA,Karur,22-10-2026,-1

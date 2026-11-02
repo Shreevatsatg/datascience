@@ -1,0 +1,146 @@
+[
+  {
+    "srn": "001",
+    "name": "Anu",
+    "program": {
+      "name": "MCA",
+      "semester": 1
+    },
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "srn": "002",
+    "name": "Ravi",
+    "program": {
+      "name": "MCA",
+      "semester": 1
+    },
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "srn": "003",
+    "name": "Meera",
+    "program": {
+      "name": "BCA",
+      "semester": 1
+    },
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "srn": "004",
+    "name": "Kiran",
+    "program": {
+      "name": "MCA",
+      "semester": 1
+    },
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "srn": "005",
+    "name": "Divya",
+    "program": {
+      "name": "MCA",
+      "semester": 1
+    },
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "srn": "006",
+    "name": "Arun",
+    "program": {
+      "name": "BCA",
+      "semester": 1
+    },
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "srn": "007",
+    "name": "Nila",
+    "program": {
+      "name": "MCA",
+      "semester": 1
+    },
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "srn": "008",
+    "name": "Vikram",
+    "program": {
+      "name": "MCA",
+      "semester": 1
+    },
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "srn": "009",
+    "name": "Priya",
+    "program": {
+      "name": "BCA",
+      "semester": 1
+    },
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "srn": "010",
+    "name": "Hari",
+    "program": {
+      "name": "MCA",
+      "semester": 1
+    },
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "srn": "011",
+    "name": "Sana",
+    "program": {
+      "name": "MCA",
+      "semester": 1
+    },
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "srn": "012",
+    "name": "Dev",
+    "program": {
+      "name": "BCA",
+      "semester": 1
+    },
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  }
+]
